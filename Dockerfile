@@ -48,7 +48,8 @@ COPY --from=build --chown=appuser:appuser /app /app
 # L'environnement virtuel dans le PATH, et le cache des modeles dans le dossier
 # de l'utilisateur (on n'est plus root, donc plus de /root/.cache).
 ENV PATH="/app/.venv/bin:$PATH" \
-    HF_HOME=/home/appuser/.cache/huggingface
+    HF_HOME=/home/appuser/.cache/huggingface \
+    HF_HUB_DISABLE_XET=1
 
 USER appuser
 

@@ -26,12 +26,13 @@ FROM python:3.12-slim AS final
 # curl est requis pour que les apprenants testent /health depuis l'interieur
 # du conteneur au chapitre 02 (docker exec ... curl localhost:8000/health).
 RUN apt-get update \
-    && apt-get install -y --no-install-recommends curl \
+    && apt-get install -y --no-install-recommends curl procps \
     && rm -rf /var/lib/apt/lists/*
 WORKDIR /app
 COPY --from=build /app /app
 # Pas de USER : on reste root. Le cache ira dans /root/.cache/huggingface,
 # emplacement attendu par le TP de persistance du chapitre 04.
-ENV PATH="/app/.venv/bin:$PATH"
+ENV PATH="/app/.venv/bin:$PATH" \
+    HF_HUB_DISABLE_XET=1
 EXPOSE 8000
 ENTRYPOINT ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]

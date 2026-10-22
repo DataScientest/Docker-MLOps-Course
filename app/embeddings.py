@@ -9,6 +9,12 @@ rejoue a chaque demarrage.
 
 from __future__ import annotations
 
+import os
+
+# Desactive le client Xet (hf-xet / CAS server) de Hugging Face Hub, qui echoue
+# sur les requetes non authentifiees (erreur de reconstruction CAS).
+os.environ.setdefault("HF_HUB_DISABLE_XET", "1")
+
 from fastembed import TextEmbedding
 
 from app import config
