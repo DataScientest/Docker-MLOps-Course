@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "title": "La voiture electrique gagne les centres-villes",
+    "body": "De plus en plus de metropoles encouragent les vehicules electriques pour reduire la pollution urbaine. Les bornes de recharge se multiplient dans les quartiers residentiels.",
+    "category": "mobilite"
+  },
+  {
+    "id": 2,
+    "title": "Le velo s'impose comme mode de deplacement quotidien",
+    "body": "La pratique du velo en ville progresse fortement. Les collectivites amenagent des pistes cyclables continues pour securiser les trajets domicile-travail.",
+    "category": "mobilite"
+  },
+  {
+    "id": 3,
+    "title": "Les zones a faibles emissions se generalisent",
+    "body": "Plusieurs agglomerations restreignent la circulation des vehicules les plus polluants. La mobilite douce et les transports en commun sont presentes comme les alternatives principales.",
+    "category": "mobilite"
+  },
+  {
+    "id": 4,
+    "title": "Trottinettes et mobilites partagees en plein essor",
+    "body": "Les services de mobilite partagee transforment les deplacements urbains. Les operateurs promettent une alternative a la voiture individuelle pour les trajets courts.",
+    "category": "mobilite"
+  },
+  {
+    "id": 5,
+    "title": "Le train de nuit revient sur les rails europeens",
+    "body": "Les liaisons ferroviaires nocturnes connaissent un regain d'interet. Les voyageurs y voient une option moins polluante que l'avion pour les moyennes distances.",
+    "category": "mobilite"
+  },
+  {
+    "id": 6,
+    "title": "Les bornes de recharge rapide se deploient sur autoroute",
+    "body": "Le reseau de recharge pour vehicules electriques s'etend le long des grands axes. L'autonomie n'est plus percue comme un frein pour les longs trajets.",
+    "category": "mobilite"
+  },
+  {
+    "id": 7,
+    "title": "Le solaire photovoltaique bat des records d'installation",
+    "body": "Les installations de panneaux solaires progressent a un rythme inedit. Les particuliers comme les entreprises investissent dans l'autoconsommation.",
+    "category": "energie"
+  },
+  {
+    "id": 8,
+    "title": "L'eolien en mer entre en service au large des cotes",
+    "body": "Les premiers parcs eoliens offshore produisent desormais de l'electricite. Ils doivent contribuer a la transition energetique du pays.",
+    "category": "energie"
+  },
+  {
+    "id": 9,
+    "title": "La sobriete energetique devient un reflexe collectif",
+    "body": "Face a la hausse des prix, menages et collectivites revoient leur consommation. Isolation des batiments et reduction du chauffage sont au programme.",
+    "category": "energie"
+  },
+  {
+    "id": 10,
+    "title": "Le stockage par batteries stabilise le reseau electrique",
+    "body": "Les grandes batteries permettent de lisser la production intermittente des renouvelables. Le reseau gagne en souplesse face aux pics de demande.",
+    "category": "energie"
+  },
+  {
+    "id": 11,
+    "title": "L'hydrogene vert suscite espoirs et prudence",
+    "body": "Produire de l'hydrogene a partir d'electricite renouvelable interesse l'industrie. Les couts de production restent toutefois eleves pour l'instant.",
+    "category": "energie"
+  },
+  {
+    "id": 12,
+    "title": "Les circuits courts seduisent les consommateurs",
+    "body": "Acheter directement aux producteurs locaux gagne du terrain. Les marches de producteurs et les paniers hebdomadaires se multiplient.",
+    "category": "alimentation"
+  },
+  {
+    "id": 13,
+    "title": "Les alternatives vegetales s'installent dans les rayons",
+    "body": "Les substituts a la viande occupent une place croissante en supermarche. L'offre de produits a base de legumineuses s'elargit.",
+    "category": "alimentation"
+  },
+  {
+    "id": 14,
+    "title": "Le gaspillage alimentaire recule dans la restauration",
+    "body": "Restaurants et cantines adoptent des mesures pour limiter les pertes. Le don des invendus se structure autour d'associations.",
+    "category": "alimentation"
+  },
+  {
+    "id": 15,
+    "title": "L'agriculture urbaine verdit les toits des villes",
+    "body": "Potagers partages et fermes sur les toits se developpent en milieu urbain. Ils rapprochent la production alimentaire des habitants.",
+    "category": "alimentation"
+  },
+  {
+    "id": 16,
+    "title": "La traçabilite des aliments rassure les acheteurs",
+    "body": "Connaitre l'origine exacte des produits devient un critere d'achat. Les etiquettes detaillees et les codes a scanner se repandent.",
+    "category": "alimentation"
+  },
+  {
+    "id": 17,
+    "title": "La teleconsultation s'ancre dans les habitudes",
+    "body": "Consulter un medecin a distance est devenu courant. Les plateformes de teleconsultation desengorgent les cabinets dans les zones peu dotees.",
+    "category": "sante"
+  },
+  {
+    "id": 18,
+    "title": "La prevention prend le pas sur le soin curatif",
+    "body": "Les politiques de sante publique insistent sur la prevention. Depistage precoce et hygiene de vie sont mis en avant.",
+    "category": "sante"
+  },
+  {
+    "id": 19,
+    "title": "L'activite physique prescrite comme un traitement",
+    "body": "Des medecins prescrivent desormais du sport adapte. L'exercice regulier est reconnu comme un levier contre les maladies chroniques.",
+    "category": "sante"
+  },
+  {
+    "id": 20,
+    "title": "Le sommeil, nouveau pilier de la sante publique",
+    "body": "La qualite du sommeil fait l'objet d'une attention croissante. Les campagnes alertent sur les effets du manque de repos.",
+    "category": "sante"
+  },
+  {
+    "id": 21,
+    "title": "Les deserts medicaux cherchent des solutions",
+    "body": "L'acces aux soins reste difficile dans certaines regions. Maisons de sante et incitations a l'installation sont experimentees.",
+    "category": "sante"
+  },
+  {
+    "id": 22,
+    "title": "L'intelligence artificielle s'invite dans les entreprises",
+    "body": "Les outils d'IA generative se diffusent dans de nombreux metiers. Les organisations cherchent a encadrer leur usage.",
+    "category": "technologie"
+  },
+  {
+    "id": 23,
+    "title": "La cybersecurite devient une priorite des PME",
+    "body": "Les petites entreprises sont de plus en plus visees par les attaques. La protection des donnees et la sauvegarde deviennent essentielles.",
+    "category": "technologie"
+  },
+  {
+    "id": 24,
+    "title": "Le cloud souverain cherche sa place en Europe",
+    "body": "Heberger les donnees sur des infrastructures europeennes rassure les acteurs publics. La question de la dependance aux fournisseurs etrangers se pose.",
+    "category": "technologie"
+  },
+  {
+    "id": 25,
+    "title": "Les puces specialisees accelerent le calcul",
+    "body": "De nouveaux processeurs sont concus pour les charges de travail intensives. Ils promettent des gains d'efficacite energetique notables.",
+    "category": "technologie"
+  },
+  {
+    "id": 26,
+    "title": "La fracture numerique persiste dans les campagnes",
+    "body": "L'acces a un internet rapide reste inegal selon les territoires. Le deploiement de la fibre se poursuit mais a un rythme variable.",
+    "category": "technologie"
+  },
+  {
+    "id": 27,
+    "title": "Le teletravail redessine le marche de l'immobilier de bureau",
+    "body": "La demande de surfaces de bureau evolue avec le travail hybride. Les entreprises reduisent ou reamenagent leurs espaces.",
+    "category": "economie"
+  },
+  {
+    "id": 28,
+    "title": "Les circuits de reparation freinent l'obsolescence",
+    "body": "Reparer plutot que jeter devient un argument economique. Les ateliers de reparation et l'indice de reparabilite gagnent en visibilite.",
+    "category": "economie"
+  },
+  {
+    "id": 29,
+    "title": "Les monnaies locales tissent des reseaux de proximite",
+    "body": "Des territoires experimentent des monnaies complementaires. Elles visent a maintenir la richesse dans l'economie locale.",
+    "category": "economie"
+  },
+  {
+    "id": 30,
+    "title": "L'economie circulaire redonne vie aux materiaux",
+    "body": "Reemploi et recyclage structurent de nouvelles filieres. Les dechets d'hier deviennent des ressources.",
+    "category": "economie"
+  },
+  {
+    "id": 31,
+    "title": "Les commerces de centre-ville se reinventent",
+    "body": "Face a la concurrence en ligne, les commercants misent sur l'experience. Animations et services de proximite tentent d'attirer les clients.",
+    "category": "economie"
+  },
+  {
+    "id": 32,
+    "title": "La renaturation des villes fait baisser la temperature",
+    "body": "Planter des arbres et desimpermeabiliser les sols rafraichit les villes. Ces amenagements luttent contre les ilots de chaleur urbains.",
+    "category": "environnement"
+  },
+  {
+    "id": 33,
+    "title": "La gestion de l'eau devient un enjeu quotidien",
+    "body": "La rarefaction de la ressource impose de nouveaux usages. Recuperation des eaux de pluie et reduction des fuites sont encouragees.",
+    "category": "environnement"
+  },
+  {
+    "id": 34,
+    "title": "La biodiversite ordinaire se reinvite en ville",
+    "body": "Prairies fleuries et haies favorisent le retour des insectes. Les collectivites revoient l'entretien des espaces verts.",
+    "category": "environnement"
+  },
+  {
+    "id": 35,
+    "title": "Le tri des dechets se simplifie pour les habitants",
+    "body": "De nouvelles consignes facilitent le geste de tri. Les filieres de recyclage s'adaptent a des flux plus volumineux.",
+    "category": "environnement"
+  },
+  {
+    "id": 36,
+    "title": "Les forets urbaines absorbent le carbone",
+    "body": "Planter des bosquets denses en ville capte du carbone et abrite la faune. Ces micro-forets poussent plus vite qu'attendu.",
+    "category": "environnement"
+  },
+  {
+    "id": 37,
+    "title": "Les bibliotheques deviennent des tiers-lieux",
+    "body": "Au-dela du pret de livres, les bibliotheques accueillent ateliers et rencontres. Elles se posent en espaces de vie partages.",
+    "category": "culture"
+  },
+  {
+    "id": 38,
+    "title": "Le cinema independant resiste grace aux festivals",
+    "body": "Les petites salles misent sur une programmation exigeante. Les festivals locaux soutiennent la diffusion de films rares.",
+    "category": "culture"
+  },
+  {
+    "id": 39,
+    "title": "Le podcast s'affirme comme un media a part entiere",
+    "body": "L'ecoute de contenus audio a la demande progresse. Les formats longs et documentaires trouvent leur public.",
+    "category": "culture"
+  },
+  {
+    "id": 40,
+    "title": "Les musees ouvrent leurs collections en ligne",
+    "body": "La numerisation rend accessibles des oeuvres jusque-la invisibles. Les visites virtuelles completent l'experience sur place.",
+    "category": "culture"
+  },
+  {
+    "id": 41,
+    "title": "Le spectacle vivant renoue avec son public",
+    "body": "Theatres et salles de concert retrouvent leur frequentation. La billetterie flexible accompagne de nouveaux comportements.",
+    "category": "culture"
+  },
+  {
+    "id": 42,
+    "title": "Les competences numeriques entrent a l'ecole",
+    "body": "Apprendre a utiliser les outils numeriques de maniere critique devient un objectif. Les programmes integrent l'education aux medias.",
+    "category": "education"
+  },
+  {
+    "id": 43,
+    "title": "La formation continue devient un reflexe de carriere",
+    "body": "Se former tout au long de la vie s'impose face aux mutations des metiers. Les dispositifs de financement se diversifient.",
+    "category": "education"
+  },
+  {
+    "id": 44,
+    "title": "L'apprentissage par projet gagne les salles de classe",
+    "body": "Mettre les eleves en situation concrete renforce la motivation. Les pedagogies actives se repandent.",
+    "category": "education"
+  },
+  {
+    "id": 45,
+    "title": "Le soutien scolaire se reinvente en ligne",
+    "body": "Les plateformes d'accompagnement personnalise se multiplient. Elles promettent un suivi adapte au rythme de chaque eleve.",
+    "category": "education"
+  },
+  {
+    "id": 46,
+    "title": "Les tiers-lieux etudiants favorisent l'entraide",
+    "body": "Des espaces de travail partages accueillent les etudiants. Ils y trouvent methode, materiel et soutien entre pairs.",
+    "category": "education"
+  },
+  {
+    "id": 47,
+    "title": "La marche a pied, sport le plus pratique du pays",
+    "body": "Accessible et gratuite, la marche seduit tous les ages. Les applications de suivi encouragent la regularite.",
+    "category": "sport"
+  },
+  {
+    "id": 48,
+    "title": "Les clubs amateurs peinent a recruter des benevoles",
+    "body": "L'engagement associatif recule dans le sport amateur. Les clubs cherchent a renouveler leurs encadrants.",
+    "category": "sport"
+  },
+  {
+    "id": 49,
+    "title": "Le sport feminin gagne en visibilite mediatique",
+    "body": "La couverture des competitions feminines progresse. Les audiences records nourrissent de nouvelles vocations.",
+    "category": "sport"
+  },
+  {
+    "id": 50,
+    "title": "Les equipements sportifs de plein air se multiplient",
+    "body": "Agres et parcours de sante fleurissent dans les parcs. Ils rendent l'activite physique accessible sans abonnement.",
+    "category": "sport"
+  },
+  {
+    "id": 51,
+    "title": "Le running urbain structure des communautes",
+    "body": "Courir en groupe devient un rendez-vous social. Les collectifs de coureurs animent les villes le soir et le week-end.",
+    "category": "sport"
+  },
+  {
+    "id": 52,
+    "title": "Dossier : La voiture electrique gagne les centres-villes en Occitanie",
+    "body": "De plus en plus de metropoles encouragent les vehicules electriques pour reduire la pollution urbaine. Les bornes de recharge se multiplient dans les quartiers residentiels. Dossier en Occitanie.",
+    "category": "mobilite"
+  },
+  {
+    "id": 53,
+    "title": "Decryptage : Le velo s'impose comme mode de deplacement quotidien a Marseille",
+    "body": "La pratique du velo en ville progresse fortement. Les collectivites amenagent des pistes cyclables continues pour securiser les trajets domicile-travail. Decryptage a Marseille.",
+    "category": "mobilite"
+  },
+  {
+    "id": 54,
+    "title": "Enquete : Les zones a faibles emissions se generalisent dans le Grand Est",
+    "body": "Plusieurs agglomerations restreignent la circulation des vehicules les plus polluants. La mobilite douce et les transports en commun sont presentes comme les alternatives principales. Enquete dans le Grand Est.",
+    "category": "mobilite"
+  },
+  {
+    "id": 55,
+    "title": "Temoignages : Trottinettes et mobilites partagees en plein essor en Occitanie",
+    "body": "Les services de mobilite partagee transforment les deplacements urbains. Les operateurs promettent une alternative a la voiture individuelle pour les trajets courts. Temoignages en Occitanie.",
+    "category": "mobilite"
+  },
+  {
+    "id": 56,
+    "title": "Reportage : Le train de nuit revient sur les rails europeens dans la metropole bordelaise",
+    "body": "Les liaisons ferroviaires nocturnes connaissent un regain d'interet. Les voyageurs y voient une option moins polluante que l'avion pour les moyennes distances. Reportage dans la metropole bordelaise.",
+    "category": "mobilite"
+  },
+  {
+    "id": 57,
+    "title": "Decryptage : Les bornes de recharge rapide se deploient sur autoroute dans la metropole bordelaise",
+    "body": "Le reseau de recharge pour vehicules electriques s'etend le long des grands axes. L'autonomie n'est plus percue comme un frein pour les longs trajets. Decryptage dans la metropole bordelaise.",
+    "category": "mobilite"
+  },
+  {
+    "id": 58,
+    "title": "Reportage : Le solaire photovoltaique bat des records d'installation a Marseille",
+    "body": "Les installations de panneaux solaires progressent a un rythme inedit. Les particuliers comme les entreprises investissent dans l'autoconsommation. Reportage a Marseille.",
+    "category": "energie"
+  },
+  {
+    "id": 59,
+    "title": "Reportage : L'eolien en mer entre en service au large des cotes dans le Grand Est",
+    "body": "Les premiers parcs eoliens offshore produisent desormais de l'electricite. Ils doivent contribuer a la transition energetique du pays. Reportage dans le Grand Est.",
+    "category": "energie"
+  },
+  {
+    "id": 60,
+    "title": "Point de vue : La sobriete energetique devient un reflexe collectif a Strasbourg",
+    "body": "Face a la hausse des prix, menages et collectivites revoient leur consommation. Isolation des batiments et reduction du chauffage sont au programme. Point de vue a Strasbourg.",
+    "category": "energie"
+  },
+  {
+    "id": 61,
+    "title": "Temoignages : Le stockage par batteries stabilise le reseau electrique a Marseille",
+    "body": "Les grandes batteries permettent de lisser la production intermittente des renouvelables. Le reseau gagne en souplesse face aux pics de demande. Temoignages a Marseille.",
+    "category": "energie"
+  },
+  {
+    "id": 62,
+    "title": "Point de vue : L'hydrogene vert suscite espoirs et prudence en Ile-de-France",
+    "body": "Produire de l'hydrogene a partir d'electricite renouvelable interesse l'industrie. Les couts de production restent toutefois eleves pour l'instant. Point de vue en Ile-de-France.",
+    "category": "energie"
+  },
+  {
+    "id": 63,
+    "title": "Decryptage : Les circuits courts seduisent les consommateurs en Ile-de-France",
+    "body": "Acheter directement aux producteurs locaux gagne du terrain. Les marches de producteurs et les paniers hebdomadaires se multiplient. Decryptage en Ile-de-France.",
+    "category": "alimentation"
+  },
+  {
+    "id": 64,
+    "title": "Decryptage : Les alternatives vegetales s'installent dans les rayons en Occitanie",
+    "body": "Les substituts a la viande occupent une place croissante en supermarche. L'offre de produits a base de legumineuses s'elargit. Decryptage en Occitanie.",
+    "category": "alimentation"
+  },
+  {
+    "id": 65,
+    "title": "Reportage : Le gaspillage alimentaire recule dans la restauration en Bretagne",
+    "body": "Restaurants et cantines adoptent des mesures pour limiter les pertes. Le don des invendus se structure autour d'associations. Reportage en Bretagne.",
+    "category": "alimentation"
+  },
+  {
+    "id": 66,
+    "title": "Temoignages : L'agriculture urbaine verdit les toits des villes dans la metropole bordelaise",
+    "body": "Potagers partages et fermes sur les toits se developpent en milieu urbain. Ils rapprochent la production alimentaire des habitants. Temoignages dans la metropole bordelaise.",
+    "category": "alimentation"
+  },
+  {
+    "id": 67,
+    "title": "Enquete : La traçabilite des aliments rassure les acheteurs a Lyon",
+    "body": "Connaitre l'origine exacte des produits devient un critere d'achat. Les etiquettes detaillees et les codes a scanner se repandent. Enquete a Lyon.",
+    "category": "alimentation"
+  },
+  {
+    "id": 68,
+    "title": "Dossier : La teleconsultation s'ancre dans les habitudes a Nantes",
+    "body": "Consulter un medecin a distance est devenu courant. Les plateformes de teleconsultation desengorgent les cabinets dans les zones peu dotees. Dossier a Nantes.",
+    "category": "sante"
+  },
+  {
+    "id": 69,
+    "title": "Reportage : La prevention prend le pas sur le soin curatif en Bretagne",
+    "body": "Les politiques de sante publique insistent sur la prevention. Depistage precoce et hygiene de vie sont mis en avant. Reportage en Bretagne.",
+    "category": "sante"
+  },
+  {
+    "id": 70,
+    "title": "Dossier : L'activite physique prescrite comme un traitement a Lille",
+    "body": "Des medecins prescrivent desormais du sport adapte. L'exercice regulier est reconnu comme un levier contre les maladies chroniques. Dossier a Lille.",
+    "category": "sante"
+  },
+  {
+    "id": 71,
+    "title": "Temoignages : Le sommeil, nouveau pilier de la sante publique a Nantes",
+    "body": "La qualite du sommeil fait l'objet d'une attention croissante. Les campagnes alertent sur les effets du manque de repos. Temoignages a Nantes.",
+    "category": "sante"
+  },
+  {
+    "id": 72,
+    "title": "Decryptage : Les deserts medicaux cherchent des solutions a Lille",
+    "body": "L'acces aux soins reste difficile dans certaines regions. Maisons de sante et incitations a l'installation sont experimentees. Decryptage a Lille.",
+    "category": "sante"
+  },
+  {
+    "id": 73,
+    "title": "Temoignages : L'intelligence artificielle s'invite dans les entreprises dans la metropole bordelaise",
+    "body": "Les outils d'IA generative se diffusent dans de nombreux metiers. Les organisations cherchent a encadrer leur usage. Temoignages dans la metropole bordelaise.",
+    "category": "technologie"
+  },
+  {
+    "id": 74,
+    "title": "Temoignages : La cybersecurite devient une priorite des PME a Marseille",
+    "body": "Les petites entreprises sont de plus en plus visees par les attaques. La protection des donnees et la sauvegarde deviennent essentielles. Temoignages a Marseille.",
+    "category": "technologie"
+  },
+  {
+    "id": 75,
+    "title": "Temoignages : Le cloud souverain cherche sa place en Europe a Lyon",
+    "body": "Heberger les donnees sur des infrastructures europeennes rassure les acteurs publics. La question de la dependance aux fournisseurs etrangers se pose. Temoignages a Lyon.",
+    "category": "technologie"
+  },
+  {
+    "id": 76,
+    "title": "Point de vue : Les puces specialisees accelerent le calcul a Nantes",
+    "body": "De nouveaux processeurs sont concus pour les charges de travail intensives. Ils promettent des gains d'efficacite energetique notables. Point de vue a Nantes.",
+    "category": "technologie"
+  },
+  {
+    "id": 77,
+    "title": "Point de vue : La fracture numerique persiste dans les campagnes a Strasbourg",
+    "body": "L'acces a un internet rapide reste inegal selon les territoires. Le deploiement de la fibre se poursuit mais a un rythme variable. Point de vue a Strasbourg.",
+    "category": "technologie"
+  },
+  {
+    "id": 78,
+    "title": "Dossier : Le teletravail redessine le marche de l'immobilier de bureau a Marseille",
+    "body": "La demande de surfaces de bureau evolue avec le travail hybride. Les entreprises reduisent ou reamenagent leurs espaces. Dossier a Marseille.",
+    "category": "economie"
+  },
+  {
+    "id": 79,
+    "title": "Dossier : Les circuits de reparation freinent l'obsolescence en Occitanie",
+    "body": "Reparer plutot que jeter devient un argument economique. Les ateliers de reparation et l'indice de reparabilite gagnent en visibilite. Dossier en Occitanie.",
+    "category": "economie"
+  },
+  {
+    "id": 80,
+    "title": "Enquete : Les monnaies locales tissent des reseaux de proximite a Marseille",
+    "body": "Des territoires experimentent des monnaies complementaires. Elles visent a maintenir la richesse dans l'economie locale. Enquete a Marseille.",
+    "category": "economie"
+  },
+  {
+    "id": 81,
+    "title": "Decryptage : L'economie circulaire redonne vie aux materiaux en Bretagne",
+    "body": "Reemploi et recyclage structurent de nouvelles filieres. Les dechets d'hier deviennent des ressources. Decryptage en Bretagne.",
+    "category": "economie"
+  },
+  {
+    "id": 82,
+    "title": "Decryptage : Les commerces de centre-ville se reinventent a Lyon",
+    "body": "Face a la concurrence en ligne, les commercants misent sur l'experience. Animations et services de proximite tentent d'attirer les clients. Decryptage a Lyon.",
+    "category": "economie"
+  },
+  {
+    "id": 83,
+    "title": "Point de vue : La renaturation des villes fait baisser la temperature a Marseille",
+    "body": "Planter des arbres et desimpermeabiliser les sols rafraichit les villes. Ces amenagements luttent contre les ilots de chaleur urbains. Point de vue a Marseille.",
+    "category": "environnement"
+  },
+  {
+    "id": 84,
+    "title": "Temoignages : La gestion de l'eau devient un enjeu quotidien en Bretagne",
+    "body": "La rarefaction de la ressource impose de nouveaux usages. Recuperation des eaux de pluie et reduction des fuites sont encouragees. Temoignages en Bretagne.",
+    "category": "environnement"
+  },
+  {
+    "id": 85,
+    "title": "Temoignages : La biodiversite ordinaire se reinvite en ville a Nantes",
+    "body": "Prairies fleuries et haies favorisent le retour des insectes. Les collectivites revoient l'entretien des espaces verts. Temoignages a Nantes.",
+    "category": "environnement"
+  },
+  {
+    "id": 86,
+    "title": "Dossier : Le tri des dechets se simplifie pour les habitants a Marseille",
+    "body": "De nouvelles consignes facilitent le geste de tri. Les filieres de recyclage s'adaptent a des flux plus volumineux. Dossier a Marseille.",
+    "category": "environnement"
+  },
+  {
+    "id": 87,
+    "title": "Dossier : Les forets urbaines absorbent le carbone a Strasbourg",
+    "body": "Planter des bosquets denses en ville capte du carbone et abrite la faune. Ces micro-forets poussent plus vite qu'attendu. Dossier a Strasbourg.",
+    "category": "environnement"
+  },
+  {
+    "id": 88,
+    "title": "Temoignages : Les bibliotheques deviennent des tiers-lieux dans le Grand Est",
+    "body": "Au-dela du pret de livres, les bibliotheques accueillent ateliers et rencontres. Elles se posent en espaces de vie partages. Temoignages dans le Grand Est.",
+    "category": "culture"
+  },
+  {
+    "id": 89,
+    "title": "Reportage : Le cinema independant resiste grace aux festivals en Occitanie",
+    "body": "Les petites salles misent sur une programmation exigeante. Les festivals locaux soutiennent la diffusion de films rares. Reportage en Occitanie.",
+    "category": "culture"
+  },
+  {
+    "id": 90,
+    "title": "Dossier : Le podcast s'affirme comme un media a part entiere en Bretagne",
+    "body": "L'ecoute de contenus audio a la demande progresse. Les formats longs et documentaires trouvent leur public. Dossier en Bretagne.",
+    "category": "culture"
+  },
+  {
+    "id": 91,
+    "title": "Temoignages : Les musees ouvrent leurs collections en ligne a Strasbourg",
+    "body": "La numerisation rend accessibles des oeuvres jusque-la invisibles. Les visites virtuelles completent l'experience sur place. Temoignages a Strasbourg.",
+    "category": "culture"
+  },
+  {
+    "id": 92,
+    "title": "Enquete : Le spectacle vivant renoue avec son public en Ile-de-France",
+    "body": "Theatres et salles de concert retrouvent leur frequentation. La billetterie flexible accompagne de nouveaux comportements. Enquete en Ile-de-France.",
+    "category": "culture"
+  },
+  {
+    "id": 93,
+    "title": "Analyse : Les competences numeriques entrent a l'ecole dans la metropole bordelaise",
+    "body": "Apprendre a utiliser les outils numeriques de maniere critique devient un objectif. Les programmes integrent l'education aux medias. Analyse dans la metropole bordelaise.",
+    "category": "education"
+  },
+  {
+    "id": 94,
+    "title": "Enquete : La formation continue devient un reflexe de carriere a Nantes",
+    "body": "Se former tout au long de la vie s'impose face aux mutations des metiers. Les dispositifs de financement se diversifient. Enquete a Nantes.",
+    "category": "education"
+  },
+  {
+    "id": 95,
+    "title": "Analyse : L'apprentissage par projet gagne les salles de classe a Marseille",
+    "body": "Mettre les eleves en situation concrete renforce la motivation. Les pedagogies actives se repandent. Analyse a Marseille.",
+    "category": "education"
+  },
+  {
+    "id": 96,
+    "title": "Reportage : Le soutien scolaire se reinvente en ligne a Lyon",
+    "body": "Les plateformes d'accompagnement personnalise se multiplient. Elles promettent un suivi adapte au rythme de chaque eleve. Reportage a Lyon.",
+    "category": "education"
+  },
+  {
+    "id": 97,
+    "title": "Reportage : Les tiers-lieux etudiants favorisent l'entraide en Ile-de-France",
+    "body": "Des espaces de travail partages accueillent les etudiants. Ils y trouvent methode, materiel et soutien entre pairs. Reportage en Ile-de-France.",
+    "category": "education"
+  },
+  {
+    "id": 98,
+    "title": "Enquete : La marche a pied, sport le plus pratique du pays a Nantes",
+    "body": "Accessible et gratuite, la marche seduit tous les ages. Les applications de suivi encouragent la regularite. Enquete a Nantes.",
+    "category": "sport"
+  },
+  {
+    "id": 99,
+    "title": "Point de vue : Les clubs amateurs peinent a recruter des benevoles dans la metropole bordelaise",
+    "body": "L'engagement associatif recule dans le sport amateur. Les clubs cherchent a renouveler leurs encadrants. Point de vue dans la metropole bordelaise.",
+    "category": "sport"
+  },
+  {
+    "id": 100,
+    "title": "Dossier : Le sport feminin gagne en visibilite mediatique a Nantes",
+    "body": "La couverture des competitions feminines progresse. Les audiences records nourrissent de nouvelles vocations. Dossier a Nantes.",
+    "category": "sport"
+  },
+  {
+    "id": 101,
+    "title": "Dossier : Les equipements sportifs de plein air se multiplient a Strasbourg",
+    "body": "Agres et parcours de sante fleurissent dans les parcs. Ils rendent l'activite physique accessible sans abonnement. Dossier a Strasbourg.",
+    "category": "sport"
+  },
+  {
+    "id": 102,
+    "title": "Dossier : Le running urbain structure des communautes en Bretagne",
+    "body": "Courir en groupe devient un rendez-vous social. Les collectifs de coureurs animent les villes le soir et le week-end. Dossier en Bretagne.",
+    "category": "sport"
+  },
+  {
+    "id": 103,
+    "title": "Reportage : La voiture electrique gagne les centres-villes dans la metropole bordelaise",
+    "body": "De plus en plus de metropoles encouragent les vehicules electriques pour reduire la pollution urbaine. Les bornes de recharge se multiplient dans les quartiers residentiels. Reportage dans la metropole bordelaise.",
+    "category": "mobilite"
+  },
+  {
+    "id": 104,
+    "title": "Temoignages : Le velo s'impose comme mode de deplacement quotidien en Bretagne",
+    "body": "La pratique du velo en ville progresse fortement. Les collectivites amenagent des pistes cyclables continues pour securiser les trajets domicile-travail. Temoignages en Bretagne.",
+    "category": "mobilite"
+  },
+  {
+    "id": 105,
+    "title": "Analyse : Les zones a faibles emissions se generalisent a Strasbourg",
+    "body": "Plusieurs agglomerations restreignent la circulation des vehicules les plus polluants. La mobilite douce et les transports en commun sont presentes comme les alternatives principales. Analyse a Strasbourg.",
+    "category": "mobilite"
+  },
+  {
+    "id": 106,
+    "title": "Dossier : Trottinettes et mobilites partagees en plein essor en Ile-de-France",
+    "body": "Les services de mobilite partagee transforment les deplacements urbains. Les operateurs promettent une alternative a la voiture individuelle pour les trajets courts. Dossier en Ile-de-France.",
+    "category": "mobilite"
+  },
+  {
+    "id": 107,
+    "title": "Decryptage : Le train de nuit revient sur les rails europeens dans le Grand Est",
+    "body": "Les liaisons ferroviaires nocturnes connaissent un regain d'interet. Les voyageurs y voient une option moins polluante que l'avion pour les moyennes distances. Decryptage dans le Grand Est.",
+    "category": "mobilite"
+  },
+  {
+    "id": 108,
+    "title": "Temoignages : Les bornes de recharge rapide se deploient sur autoroute dans le Grand Est",
+    "body": "Le reseau de recharge pour vehicules electriques s'etend le long des grands axes. L'autonomie n'est plus percue comme un frein pour les longs trajets. Temoignages dans le Grand Est.",
+    "category": "mobilite"
+  },
+  {
+    "id": 109,
+    "title": "Point de vue : Le solaire photovoltaique bat des records d'installation a Marseille",
+    "body": "Les installations de panneaux solaires progressent a un rythme inedit. Les particuliers comme les entreprises investissent dans l'autoconsommation. Point de vue a Marseille.",
+    "category": "energie"
+  },
+  {
+    "id": 110,
+    "title": "Decryptage : L'eolien en mer entre en service au large des cotes en Occitanie",
+    "body": "Les premiers parcs eoliens offshore produisent desormais de l'electricite. Ils doivent contribuer a la transition energetique du pays. Decryptage en Occitanie.",
+    "category": "energie"
+  },
+  {
+    "id": 111,
+    "title": "Decryptage : La sobriete energetique devient un reflexe collectif a Strasbourg",
+    "body": "Face a la hausse des prix, menages et collectivites revoient leur consommation. Isolation des batiments et reduction du chauffage sont au programme. Decryptage a Strasbourg.",
+    "category": "energie"
+  },
+  {
+    "id": 112,
+    "title": "Decryptage : Le stockage par batteries stabilise le reseau electrique a Nantes",
+    "body": "Les grandes batteries permettent de lisser la production intermittente des renouvelables. Le reseau gagne en souplesse face aux pics de demande. Decryptage a Nantes.",
+    "category": "energie"
+  },
+  {
+    "id": 113,
+    "title": "Reportage : L'hydrogene vert suscite espoirs et prudence dans le Grand Est",
+    "body": "Produire de l'hydrogene a partir d'electricite renouvelable interesse l'industrie. Les couts de production restent toutefois eleves pour l'instant. Reportage dans le Grand Est.",
+    "category": "energie"
+  },
+  {
+    "id": 114,
+    "title": "Enquete : Les circuits courts seduisent les consommateurs en Occitanie",
+    "body": "Acheter directement aux producteurs locaux gagne du terrain. Les marches de producteurs et les paniers hebdomadaires se multiplient. Enquete en Occitanie.",
+    "category": "alimentation"
+  },
+  {
+    "id": 115,
+    "title": "Enquete : Les alternatives vegetales s'installent dans les rayons en Ile-de-France",
+    "body": "Les substituts a la viande occupent une place croissante en supermarche. L'offre de produits a base de legumineuses s'elargit. Enquete en Ile-de-France.",
+    "category": "alimentation"
+  },
+  {
+    "id": 116,
+    "title": "Temoignages : Le gaspillage alimentaire recule dans la restauration dans le Grand Est",
+    "body": "Restaurants et cantines adoptent des mesures pour limiter les pertes. Le don des invendus se structure autour d'associations. Temoignages dans le Grand Est.",
+    "category": "alimentation"
+  },
+  {
+    "id": 117,
+    "title": "Temoignages : L'agriculture urbaine verdit les toits des villes dans le Grand Est",
+    "body": "Potagers partages et fermes sur les toits se developpent en milieu urbain. Ils rapprochent la production alimentaire des habitants. Temoignages dans le Grand Est.",
+    "category": "alimentation"
+  },
+  {
+    "id": 118,
+    "title": "Enquete : La traçabilite des aliments rassure les acheteurs a Nantes",
+    "body": "Connaitre l'origine exacte des produits devient un critere d'achat. Les etiquettes detaillees et les codes a scanner se repandent. Enquete a Nantes.",
+    "category": "alimentation"
+  },
+  {
+    "id": 119,
+    "title": "Point de vue : La teleconsultation s'ancre dans les habitudes a Lyon",
+    "body": "Consulter un medecin a distance est devenu courant. Les plateformes de teleconsultation desengorgent les cabinets dans les zones peu dotees. Point de vue a Lyon.",
+    "category": "sante"
+  },
+  {
+    "id": 120,
+    "title": "Reportage : La prevention prend le pas sur le soin curatif a Nantes",
+    "body": "Les politiques de sante publique insistent sur la prevention. Depistage precoce et hygiene de vie sont mis en avant. Reportage a Nantes.",
+    "category": "sante"
+  },
+  {
+    "id": 121,
+    "title": "Enquete : L'activite physique prescrite comme un traitement en Occitanie",
+    "body": "Des medecins prescrivent desormais du sport adapte. L'exercice regulier est reconnu comme un levier contre les maladies chroniques. Enquete en Occitanie.",
+    "category": "sante"
+  },
+  {
+    "id": 122,
+    "title": "Enquete : Le sommeil, nouveau pilier de la sante publique a Strasbourg",
+    "body": "La qualite du sommeil fait l'objet d'une attention croissante. Les campagnes alertent sur les effets du manque de repos. Enquete a Strasbourg.",
+    "category": "sante"
+  },
+  {
+    "id": 123,
+    "title": "Reportage : Les deserts medicaux cherchent des solutions a Marseille",
+    "body": "L'acces aux soins reste difficile dans certaines regions. Maisons de sante et incitations a l'installation sont experimentees. Reportage a Marseille.",
+    "category": "sante"
+  },
+  {
+    "id": 124,
+    "title": "Point de vue : L'intelligence artificielle s'invite dans les entreprises dans la metropole bordelaise",
+    "body": "Les outils d'IA generative se diffusent dans de nombreux metiers. Les organisations cherchent a encadrer leur usage. Point de vue dans la metropole bordelaise.",
+    "category": "technologie"
+  },
+  {
+    "id": 125,
+    "title": "Reportage : La cybersecurite devient une priorite des PME a Strasbourg",
+    "body": "Les petites entreprises sont de plus en plus visees par les attaques. La protection des donnees et la sauvegarde deviennent essentielles. Reportage a Strasbourg.",
+    "category": "technologie"
+  },
+  {
+    "id": 126,
+    "title": "Reportage : Le cloud souverain cherche sa place en Europe en Ile-de-France",
+    "body": "Heberger les donnees sur des infrastructures europeennes rassure les acteurs publics. La question de la dependance aux fournisseurs etrangers se pose. Reportage en Ile-de-France.",
+    "category": "technologie"
+  },
+  {
+    "id": 127,
+    "title": "Temoignages : Les puces specialisees accelerent le calcul dans la metropole bordelaise",
+    "body": "De nouveaux processeurs sont concus pour les charges de travail intensives. Ils promettent des gains d'efficacite energetique notables. Temoignages dans la metropole bordelaise.",
+    "category": "technologie"
+  },
+  {
+    "id": 128,
+    "title": "Reportage : La fracture numerique persiste dans les campagnes dans la metropole bordelaise",
+    "body": "L'acces a un internet rapide reste inegal selon les territoires. Le deploiement de la fibre se poursuit mais a un rythme variable. Reportage dans la metropole bordelaise.",
+    "category": "technologie"
+  },
+  {
+    "id": 129,
+    "title": "Dossier : Le teletravail redessine le marche de l'immobilier de bureau a Lille",
+    "body": "La demande de surfaces de bureau evolue avec le travail hybride. Les entreprises reduisent ou reamenagent leurs espaces. Dossier a Lille.",
+    "category": "economie"
+  },
+  {
+    "id": 130,
+    "title": "Reportage : Les circuits de reparation freinent l'obsolescence a Nantes",
+    "body": "Reparer plutot que jeter devient un argument economique. Les ateliers de reparation et l'indice de reparabilite gagnent en visibilite. Reportage a Nantes.",
+    "category": "economie"
+  },
+  {
+    "id": 131,
+    "title": "Enquete : Les monnaies locales tissent des reseaux de proximite a Lille",
+    "body": "Des territoires experimentent des monnaies complementaires. Elles visent a maintenir la richesse dans l'economie locale. Enquete a Lille.",
+    "category": "economie"
+  },
+  {
+    "id": 132,
+    "title": "Analyse : L'economie circulaire redonne vie aux materiaux a Lille",
+    "body": "Reemploi et recyclage structurent de nouvelles filieres. Les dechets d'hier deviennent des ressources. Analyse a Lille.",
+    "category": "economie"
+  },
+  {
+    "id": 133,
+    "title": "Decryptage : Les commerces de centre-ville se reinventent dans la metropole bordelaise",
+    "body": "Face a la concurrence en ligne, les commercants misent sur l'experience. Animations et services de proximite tentent d'attirer les clients. Decryptage dans la metropole bordelaise.",
+    "category": "economie"
+  },
+  {
+    "id": 134,
+    "title": "Dossier : La renaturation des villes fait baisser la temperature a Lyon",
+    "body": "Planter des arbres et desimpermeabiliser les sols rafraichit les villes. Ces amenagements luttent contre les ilots de chaleur urbains. Dossier a Lyon.",
+    "category": "environnement"
+  },
+  {
+    "id": 135,
+    "title": "Point de vue : La gestion de l'eau devient un enjeu quotidien a Nantes",
+    "body": "La rarefaction de la ressource impose de nouveaux usages. Recuperation des eaux de pluie et reduction des fuites sont encouragees. Point de vue a Nantes.",
+    "category": "environnement"
+  },
+  {
+    "id": 136,
+    "title": "Enquete : La biodiversite ordinaire se reinvite en ville a Lille",
+    "body": "Prairies fleuries et haies favorisent le retour des insectes. Les collectivites revoient l'entretien des espaces verts. Enquete a Lille.",
+    "category": "environnement"
+  },
+  {
+    "id": 137,
+    "title": "Point de vue : Le tri des dechets se simplifie pour les habitants en Occitanie",
+    "body": "De nouvelles consignes facilitent le geste de tri. Les filieres de recyclage s'adaptent a des flux plus volumineux. Point de vue en Occitanie.",
+    "category": "environnement"
+  },
+  {
+    "id": 138,
+    "title": "Dossier : Les forets urbaines absorbent le carbone a Nantes",
+    "body": "Planter des bosquets denses en ville capte du carbone et abrite la faune. Ces micro-forets poussent plus vite qu'attendu. Dossier a Nantes.",
+    "category": "environnement"
+  },
+  {
+    "id": 139,
+    "title": "Reportage : Les bibliotheques deviennent des tiers-lieux dans le Grand Est",
+    "body": "Au-dela du pret de livres, les bibliotheques accueillent ateliers et rencontres. Elles se posent en espaces de vie partages. Reportage dans le Grand Est.",
+    "category": "culture"
+  },
+  {
+    "id": 140,
+    "title": "Reportage : Le cinema independant resiste grace aux festivals a Strasbourg",
+    "body": "Les petites salles misent sur une programmation exigeante. Les festivals locaux soutiennent la diffusion de films rares. Reportage a Strasbourg.",
+    "category": "culture"
+  },
+  {
+    "id": 141,
+    "title": "Decryptage : Le podcast s'affirme comme un media a part entiere en Bretagne",
+    "body": "L'ecoute de contenus audio a la demande progresse. Les formats longs et documentaires trouvent leur public. Decryptage en Bretagne.",
+    "category": "culture"
+  },
+  {
+    "id": 142,
+    "title": "Decryptage : Les musees ouvrent leurs collections en ligne en Bretagne",
+    "body": "La numerisation rend accessibles des oeuvres jusque-la invisibles. Les visites virtuelles completent l'experience sur place. Decryptage en Bretagne.",
+    "category": "culture"
+  },
+  {
+    "id": 143,
+    "title": "Analyse : Le spectacle vivant renoue avec son public dans la metropole bordelaise",
+    "body": "Theatres et salles de concert retrouvent leur frequentation. La billetterie flexible accompagne de nouveaux comportements. Analyse dans la metropole bordelaise.",
+    "category": "culture"
+  },
+  {
+    "id": 144,
+    "title": "Reportage : Les competences numeriques entrent a l'ecole a Nantes",
+    "body": "Apprendre a utiliser les outils numeriques de maniere critique devient un objectif. Les programmes integrent l'education aux medias. Reportage a Nantes.",
+    "category": "education"
+  },
+  {
+    "id": 145,
+    "title": "Decryptage : La formation continue devient un reflexe de carriere a Strasbourg",
+    "body": "Se former tout au long de la vie s'impose face aux mutations des metiers. Les dispositifs de financement se diversifient. Decryptage a Strasbourg.",
+    "category": "education"
+  },
+  {
+    "id": 146,
+    "title": "Enquete : L'apprentissage par projet gagne les salles de classe a Lyon",
+    "body": "Mettre les eleves en situation concrete renforce la motivation. Les pedagogies actives se repandent. Enquete a Lyon.",
+    "category": "education"
+  },
+  {
+    "id": 147,
+    "title": "Point de vue : Le soutien scolaire se reinvente en ligne a Strasbourg",
+    "body": "Les plateformes d'accompagnement personnalise se multiplient. Elles promettent un suivi adapte au rythme de chaque eleve. Point de vue a Strasbourg.",
+    "category": "education"
+  },
+  {
+    "id": 148,
+    "title": "Dossier : Les tiers-lieux etudiants favorisent l'entraide a Lyon",
+    "body": "Des espaces de travail partages accueillent les etudiants. Ils y trouvent methode, materiel et soutien entre pairs. Dossier a Lyon.",
+    "category": "education"
+  },
+  {
+    "id": 149,
+    "title": "Enquete : La marche a pied, sport le plus pratique du pays dans le Grand Est",
+    "body": "Accessible et gratuite, la marche seduit tous les ages. Les applications de suivi encouragent la regularite. Enquete dans le Grand Est.",
+    "category": "sport"
+  },
+  {
+    "id": 150,
+    "title": "Reportage : Les clubs amateurs peinent a recruter des benevoles a Lille",
+    "body": "L'engagement associatif recule dans le sport amateur. Les clubs cherchent a renouveler leurs encadrants. Reportage a Lille.",
+    "category": "sport"
+  },
+  {
+    "id": 151,
+    "title": "Decryptage : Le sport feminin gagne en visibilite mediatique dans la metropole bordelaise",
+    "body": "La couverture des competitions feminines progresse. Les audiences records nourrissent de nouvelles vocations. Decryptage dans la metropole bordelaise.",
+    "category": "sport"
+  },
+  {
+    "id": 152,
+    "title": "Reportage : Les equipements sportifs de plein air se multiplient a Lille",
+    "body": "Agres et parcours de sante fleurissent dans les parcs. Ils rendent l'activite physique accessible sans abonnement. Reportage a Lille.",
+    "category": "sport"
+  },
+  {
+    "id": 153,
+    "title": "Enquete : Le running urbain structure des communautes en Bretagne",
+    "body": "Courir en groupe devient un rendez-vous social. Les collectifs de coureurs animent les villes le soir et le week-end. Enquete en Bretagne.",
+    "category": "sport"
+  },
+  {
+    "id": 154,
+    "title": "Decryptage : La voiture electrique gagne les centres-villes a Lyon",
+    "body": "De plus en plus de metropoles encouragent les vehicules electriques pour reduire la pollution urbaine. Les bornes de recharge se multiplient dans les quartiers residentiels. Decryptage a Lyon.",
+    "category": "mobilite"
+  },
+  {
+    "id": 155,
+    "title": "Decryptage : Le velo s'impose comme mode de deplacement quotidien a Marseille",
+    "body": "La pratique du velo en ville progresse fortement. Les collectivites amenagent des pistes cyclables continues pour securiser les trajets domicile-travail. Decryptage a Marseille.",
+    "category": "mobilite"
+  },
+  {
+    "id": 156,
+    "title": "Dossier : Les zones a faibles emissions se generalisent dans la metropole bordelaise",
+    "body": "Plusieurs agglomerations restreignent la circulation des vehicules les plus polluants. La mobilite douce et les transports en commun sont presentes comme les alternatives principales. Dossier dans la metropole bordelaise.",
+    "category": "mobilite"
+  },
+  {
+    "id": 157,
+    "title": "Analyse : Trottinettes et mobilites partagees en plein essor a Lille",
+    "body": "Les services de mobilite partagee transforment les deplacements urbains. Les operateurs promettent une alternative a la voiture individuelle pour les trajets courts. Analyse a Lille.",
+    "category": "mobilite"
+  },
+  {
+    "id": 158,
+    "title": "Point de vue : Le train de nuit revient sur les rails europeens a Strasbourg",
+    "body": "Les liaisons ferroviaires nocturnes connaissent un regain d'interet. Les voyageurs y voient une option moins polluante que l'avion pour les moyennes distances. Point de vue a Strasbourg.",
+    "category": "mobilite"
+  },
+  {
+    "id": 159,
+    "title": "Point de vue : Les bornes de recharge rapide se deploient sur autoroute dans la metropole bordelaise",
+    "body": "Le reseau de recharge pour vehicules electriques s'etend le long des grands axes. L'autonomie n'est plus percue comme un frein pour les longs trajets. Point de vue dans la metropole bordelaise.",
+    "category": "mobilite"
+  },
+  {
+    "id": 160,
+    "title": "Reportage : Le solaire photovoltaique bat des records d'installation dans le Grand Est",
+    "body": "Les installations de panneaux solaires progressent a un rythme inedit. Les particuliers comme les entreprises investissent dans l'autoconsommation. Reportage dans le Grand Est.",
+    "category": "energie"
+  },
+  {
+    "id": 161,
+    "title": "Analyse : L'eolien en mer entre en service au large des cotes dans le Grand Est",
+    "body": "Les premiers parcs eoliens offshore produisent desormais de l'electricite. Ils doivent contribuer a la transition energetique du pays. Analyse dans le Grand Est.",
+    "category": "energie"
+  },
+  {
+    "id": 162,
+    "title": "Enquete : La sobriete energetique devient un reflexe collectif en Ile-de-France",
+    "body": "Face a la hausse des prix, menages et collectivites revoient leur consommation. Isolation des batiments et reduction du chauffage sont au programme. Enquete en Ile-de-France.",
+    "category": "energie"
+  },
+  {
+    "id": 163,
+    "title": "Point de vue : Le stockage par batteries stabilise le reseau electrique a Strasbourg",
+    "body": "Les grandes batteries permettent de lisser la production intermittente des renouvelables. Le reseau gagne en souplesse face aux pics de demande. Point de vue a Strasbourg.",
+    "category": "energie"
+  },
+  {
+    "id": 164,
+    "title": "Enquete : L'hydrogene vert suscite espoirs et prudence en Occitanie",
+    "body": "Produire de l'hydrogene a partir d'electricite renouvelable interesse l'industrie. Les couts de production restent toutefois eleves pour l'instant. Enquete en Occitanie.",
+    "category": "energie"
+  },
+  {
+    "id": 165,
+    "title": "Enquete : Les circuits courts seduisent les consommateurs a Lyon",
+    "body": "Acheter directement aux producteurs locaux gagne du terrain. Les marches de producteurs et les paniers hebdomadaires se multiplient. Enquete a Lyon.",
+    "category": "alimentation"
+  },
+  {
+    "id": 166,
+    "title": "Temoignages : Les alternatives vegetales s'installent dans les rayons dans la metropole bordelaise",
+    "body": "Les substituts a la viande occupent une place croissante en supermarche. L'offre de produits a base de legumineuses s'elargit. Temoignages dans la metropole bordelaise.",
+    "category": "alimentation"
+  },
+  {
+    "id": 167,
+    "title": "Temoignages : Le gaspillage alimentaire recule dans la restauration a Strasbourg",
+    "body": "Restaurants et cantines adoptent des mesures pour limiter les pertes. Le don des invendus se structure autour d'associations. Temoignages a Strasbourg.",
+    "category": "alimentation"
+  },
+  {
+    "id": 168,
+    "title": "Reportage : L'agriculture urbaine verdit les toits des villes a Lyon",
+    "body": "Potagers partages et fermes sur les toits se developpent en milieu urbain. Ils rapprochent la production alimentaire des habitants. Reportage a Lyon.",
+    "category": "alimentation"
+  },
+  {
+    "id": 169,
+    "title": "Temoignages : La traçabilite des aliments rassure les acheteurs a Nantes",
+    "body": "Connaitre l'origine exacte des produits devient un critere d'achat. Les etiquettes detaillees et les codes a scanner se repandent. Temoignages a Nantes.",
+    "category": "alimentation"
+  },
+  {
+    "id": 170,
+    "title": "Dossier : La teleconsultation s'ancre dans les habitudes en Bretagne",
+    "body": "Consulter un medecin a distance est devenu courant. Les plateformes de teleconsultation desengorgent les cabinets dans les zones peu dotees. Dossier en Bretagne.",
+    "category": "sante"
+  },
+  {
+    "id": 171,
+    "title": "Enquete : La prevention prend le pas sur le soin curatif en Ile-de-France",
+    "body": "Les politiques de sante publique insistent sur la prevention. Depistage precoce et hygiene de vie sont mis en avant. Enquete en Ile-de-France.",
+    "category": "sante"
+  },
+  {
+    "id": 172,
+    "title": "Enquete : L'activite physique prescrite comme un traitement dans le Grand Est",
+    "body": "Des medecins prescrivent desormais du sport adapte. L'exercice regulier est reconnu comme un levier contre les maladies chroniques. Enquete dans le Grand Est.",
+    "category": "sante"
+  },
+  {
+    "id": 173,
+    "title": "Decryptage : Le sommeil, nouveau pilier de la sante publique a Nantes",
+    "body": "La qualite du sommeil fait l'objet d'une attention croissante. Les campagnes alertent sur les effets du manque de repos. Decryptage a Nantes.",
+    "category": "sante"
+  },
+  {
+    "id": 174,
+    "title": "Temoignages : Les deserts medicaux cherchent des solutions dans le Grand Est",
+    "body": "L'acces aux soins reste difficile dans certaines regions. Maisons de sante et incitations a l'installation sont experimentees. Temoignages dans le Grand Est.",
+    "category": "sante"
+  },
+  {
+    "id": 175,
+    "title": "Temoignages : L'intelligence artificielle s'invite dans les entreprises en Ile-de-France",
+    "body": "Les outils d'IA generative se diffusent dans de nombreux metiers. Les organisations cherchent a encadrer leur usage. Temoignages en Ile-de-France.",
+    "category": "technologie"
+  },
+  {
+    "id": 176,
+    "title": "Enquete : La cybersecurite devient une priorite des PME en Ile-de-France",
+    "body": "Les petites entreprises sont de plus en plus visees par les attaques. La protection des donnees et la sauvegarde deviennent essentielles. Enquete en Ile-de-France.",
+    "category": "technologie"
+  },
+  {
+    "id": 177,
+    "title": "Enquete : Le cloud souverain cherche sa place en Europe a Lille",
+    "body": "Heberger les donnees sur des infrastructures europeennes rassure les acteurs publics. La question de la dependance aux fournisseurs etrangers se pose. Enquete a Lille.",
+    "category": "technologie"
+  },
+  {
+    "id": 178,
+    "title": "Point de vue : Les puces specialisees accelerent le calcul en Ile-de-France",
+    "body": "De nouveaux processeurs sont concus pour les charges de travail intensives. Ils promettent des gains d'efficacite energetique notables. Point de vue en Ile-de-France.",
+    "category": "technologie"
+  },
+  {
+    "id": 179,
+    "title": "Temoignages : La fracture numerique persiste dans les campagnes a Strasbourg",
+    "body": "L'acces a un internet rapide reste inegal selon les territoires. Le deploiement de la fibre se poursuit mais a un rythme variable. Temoignages a Strasbourg.",
+    "category": "technologie"
+  },
+  {
+    "id": 180,
+    "title": "Analyse : Le teletravail redessine le marche de l'immobilier de bureau a Marseille",
+    "body": "La demande de surfaces de bureau evolue avec le travail hybride. Les entreprises reduisent ou reamenagent leurs espaces. Analyse a Marseille.",
+    "category": "economie"
+  },
+  {
+    "id": 181,
+    "title": "Reportage : Les circuits de reparation freinent l'obsolescence en Occitanie",
+    "body": "Reparer plutot que jeter devient un argument economique. Les ateliers de reparation et l'indice de reparabilite gagnent en visibilite. Reportage en Occitanie.",
+    "category": "economie"
+  },
+  {
+    "id": 182,
+    "title": "Reportage : Les monnaies locales tissent des reseaux de proximite a Marseille",
+    "body": "Des territoires experimentent des monnaies complementaires. Elles visent a maintenir la richesse dans l'economie locale. Reportage a Marseille.",
+    "category": "economie"
+  },
+  {
+    "id": 183,
+    "title": "Decryptage : L'economie circulaire redonne vie aux materiaux en Bretagne",
+    "body": "Reemploi et recyclage structurent de nouvelles filieres. Les dechets d'hier deviennent des ressources. Decryptage en Bretagne.",
+    "category": "economie"
+  },
+  {
+    "id": 184,
+    "title": "Point de vue : Les commerces de centre-ville se reinventent a Marseille",
+    "body": "Face a la concurrence en ligne, les commercants misent sur l'experience. Animations et services de proximite tentent d'attirer les clients. Point de vue a Marseille.",
+    "category": "economie"
+  },
+  {
+    "id": 185,
+    "title": "Decryptage : La renaturation des villes fait baisser la temperature en Occitanie",
+    "body": "Planter des arbres et desimpermeabiliser les sols rafraichit les villes. Ces amenagements luttent contre les ilots de chaleur urbains. Decryptage en Occitanie.",
+    "category": "environnement"
+  },
+  {
+    "id": 186,
+    "title": "Dossier : La gestion de l'eau devient un enjeu quotidien a Nantes",
+    "body": "La rarefaction de la ressource impose de nouveaux usages. Recuperation des eaux de pluie et reduction des fuites sont encouragees. Dossier a Nantes.",
+    "category": "environnement"
+  },
+  {
+    "id": 187,
+    "title": "Enquete : La biodiversite ordinaire se reinvite en ville dans la metropole bordelaise",
+    "body": "Prairies fleuries et haies favorisent le retour des insectes. Les collectivites revoient l'entretien des espaces verts. Enquete dans la metropole bordelaise.",
+    "category": "environnement"
+  },
+  {
+    "id": 188,
+    "title": "Temoignages : Le tri des dechets se simplifie pour les habitants en Ile-de-France",
+    "body": "De nouvelles consignes facilitent le geste de tri. Les filieres de recyclage s'adaptent a des flux plus volumineux. Temoignages en Ile-de-France.",
+    "category": "environnement"
+  },
+  {
+    "id": 189,
+    "title": "Enquete : Les forets urbaines absorbent le carbone a Nantes",
+    "body": "Planter des bosquets denses en ville capte du carbone et abrite la faune. Ces micro-forets poussent plus vite qu'attendu. Enquete a Nantes.",
+    "category": "environnement"
+  },
+  {
+    "id": 190,
+    "title": "Temoignages : Les bibliotheques deviennent des tiers-lieux dans le Grand Est",
+    "body": "Au-dela du pret de livres, les bibliotheques accueillent ateliers et rencontres. Elles se posent en espaces de vie partages. Temoignages dans le Grand Est.",
+    "category": "culture"
+  },
+  {
+    "id": 191,
+    "title": "Temoignages : Le cinema independant resiste grace aux festivals a Marseille",
+    "body": "Les petites salles misent sur une programmation exigeante. Les festivals locaux soutiennent la diffusion de films rares. Temoignages a Marseille.",
+    "category": "culture"
+  },
+  {
+    "id": 192,
+    "title": "Reportage : Le podcast s'affirme comme un media a part entiere en Occitanie",
+    "body": "L'ecoute de contenus audio a la demande progresse. Les formats longs et documentaires trouvent leur public. Reportage en Occitanie.",
+    "category": "culture"
+  },
+  {
+    "id": 193,
+    "title": "Enquete : Les musees ouvrent leurs collections en ligne dans le Grand Est",
+    "body": "La numerisation rend accessibles des oeuvres jusque-la invisibles. Les visites virtuelles completent l'experience sur place. Enquete dans le Grand Est.",
+    "category": "culture"
+  },
+  {
+    "id": 194,
+    "title": "Analyse : Le spectacle vivant renoue avec son public a Marseille",
+    "body": "Theatres et salles de concert retrouvent leur frequentation. La billetterie flexible accompagne de nouveaux comportements. Analyse a Marseille.",
+    "category": "culture"
+  },
+  {
+    "id": 195,
+    "title": "Reportage : Les competences numeriques entrent a l'ecole dans la metropole bordelaise",
+    "body": "Apprendre a utiliser les outils numeriques de maniere critique devient un objectif. Les programmes integrent l'education aux medias. Reportage dans la metropole bordelaise.",
+    "category": "education"
+  },
+  {
+    "id": 196,
+    "title": "Dossier : La formation continue devient un reflexe de carriere a Strasbourg",
+    "body": "Se former tout au long de la vie s'impose face aux mutations des metiers. Les dispositifs de financement se diversifient. Dossier a Strasbourg.",
+    "category": "education"
+  },
+  {
+    "id": 197,
+    "title": "Point de vue : L'apprentissage par projet gagne les salles de classe a Marseille",
+    "body": "Mettre les eleves en situation concrete renforce la motivation. Les pedagogies actives se repandent. Point de vue a Marseille.",
+    "category": "education"
+  },
+  {
+    "id": 198,
+    "title": "Temoignages : Le soutien scolaire se reinvente en ligne a Strasbourg",
+    "body": "Les plateformes d'accompagnement personnalise se multiplient. Elles promettent un suivi adapte au rythme de chaque eleve. Temoignages a Strasbourg.",
+    "category": "education"
+  },
+  {
+    "id": 199,
+    "title": "Enquete : Les tiers-lieux etudiants favorisent l'entraide a Strasbourg",
+    "body": "Des espaces de travail partages accueillent les etudiants. Ils y trouvent methode, materiel et soutien entre pairs. Enquete a Strasbourg.",
+    "category": "education"
+  },
+  {
+    "id": 200,
+    "title": "Analyse : La marche a pied, sport le plus pratique du pays a Nantes",
+    "body": "Accessible et gratuite, la marche seduit tous les ages. Les applications de suivi encouragent la regularite. Analyse a Nantes.",
+    "category": "sport"
+  }
+]

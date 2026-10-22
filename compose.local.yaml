@@ -1,0 +1,44 @@
+# Stack avec resume active par un modele LOCAL (Docker Model Runner).
+# Lancer avec :  docker compose -f compose.local.yaml --profile digest-local up -d
+#
+# Le modele ai/smollm2 est declare dans l'element `models` et branche sur
+# l'API, qui recoit son adresse et son nom via DIGEST_URL et DIGEST_MODEL.
+# Aucune inscription ni cle requise.
+services:
+  qdrant:
+    image: qdrant/qdrant:v1.18.2
+    volumes:
+      - qdrant-storage:/qdrant/storage
+    healthcheck:
+      test: ["CMD-SHELL", "bash -c ':> /dev/tcp/127.0.0.1/6333' || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  api:
+    build: .
+    ports:
+      - "${API_PORT:-8000}:8000"
+    environment:
+      QDRANT_URL: ${QDRANT_URL:-http://qdrant:6333}
+    volumes:
+      - hf-cache:/home/appuser/.cache/huggingface
+    depends_on:
+      qdrant:
+        condition: service_healthy
+    models:
+      digest-model:
+        endpoint_var: DIGEST_URL
+        model_var: DIGEST_MODEL
+    profiles:
+      - digest-local
+
+models:
+  digest-model:
+    model: ai/smollm2
+    context_size: 2048
+
+volumes:
+  qdrant-storage:
+  hf-cache:

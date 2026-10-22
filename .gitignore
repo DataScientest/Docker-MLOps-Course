@@ -1,0 +1,16 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Cache des modeles (ne doit jamais etre committe)
+.cache/
+
+# Secrets : le fichier reel ne doit jamais entrer dans Git
+groq_api_key.txt
+.env
+
+# Divers
+.DS_Store

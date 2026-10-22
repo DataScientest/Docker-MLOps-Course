@@ -1,0 +1,35 @@
+# Stack de PRODUCTION.
+# Contrairement a compose.yaml, ce fichier ne CONSTRUIT rien : il CONSOMME une
+# image deja construite, testee et publiee sur le registre. C'est le principe
+# "build once, promote everywhere" : la production execute un artefact fige,
+# elle ne le recompile pas.
+#
+# Remplacez l'image par la votre (ghcr.io/<votre-utilisateur>/sillage-api),
+# idealement referencee par son digest @sha256:... pour une garantie totale.
+services:
+  qdrant:
+    image: qdrant/qdrant:v1.18.2
+    volumes:
+      - qdrant-storage:/qdrant/storage
+    healthcheck:
+      test: ["CMD-SHELL", "bash -c ':> /dev/tcp/127.0.0.1/6333' || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  api:
+    image: ${IMAGE:-ghcr.io/datascientest/sillage-api:1.0.0}
+    ports:
+      - "${API_PORT:-8000}:8000"
+    environment:
+      QDRANT_URL: ${QDRANT_URL:-http://qdrant:6333}
+    volumes:
+      - hf-cache:/home/appuser/.cache/huggingface
+    depends_on:
+      qdrant:
+        condition: service_healthy
+
+volumes:
+  qdrant-storage:
+  hf-cache:
