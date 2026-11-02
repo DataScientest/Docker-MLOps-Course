@@ -1,4 +1,4 @@
-# Sillage — projet fil rouge du cours Docker
+# Sillage - projet fil rouge du cours Docker
 
 Bienvenue sur le dépôt du projet **Sillage**, le fil rouge du module Docker du
 parcours AI Engineer. Vous allez le faire grandir chapitre après chapitre,
